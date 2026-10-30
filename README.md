@@ -14,20 +14,16 @@
 </p>
 
 ---
-
-### Statistical Overview
-
 <!-- Activity Graph & Streak Stats side by side -->
 ### Statistical Overview
 
+<!-- Activity Graph & Streak Stats side by side -->
 <p align="center">
-  <!-- Activity Graph -->
   <a href="https://github.com/Darkwizard07">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwizard07&theme=tokyo-night&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&hide_border=true" height="175" alt="Activity Graph" />
   </a>
-  <!-- Streak Stats -->
   <a href="https://github.com/Darkwizard07">
-    <img src="https://streak-stats.demolab.com?user=AshishShenoy23&theme=tokyonight&background=0D1117&border=0D1117&stroke=0D1117&ring=FE9B12&fire=FE9B12&currStreakNum=FE9B12" height="175" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Darkwizard07&theme=tokyonight&background=0D1117&border=0D1117&stroke=0D1117&ring=FE9B12&fire=FE9B12&currStreakNum=FE9B12" height="175" alt="GitHub Streak" />
   </a>
 </p>
 
