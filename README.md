@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Your Name</h1>
+<h1 align="center">Hi I'm Ashish S.K</h1>
 
 ---
 
@@ -16,7 +16,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,react,nextjs,nodejs,express,fastapi,tailwind,prisma,mongodb,tensorflow,postgres,firebase,aws,azure,gcp,docker,git,github,linux,npm,postman,vercel,cloudflare&perline=9" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,react,nextjs,nodejs,fastapi,tailwind,prisma,mongodb,postgres,firebase,aws,azure,gcp,docker,git,github,linux,npm,postman,vercel,cloudflare&perline=9" alt="My Skills" />
 </p>
 
 ---
