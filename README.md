@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <b>Full-Stack Developer | Machine Learning Engineer | Engineering Student</b>
+  <b>Full-Stack Developer</b>
 </p>
 
 <!-- Typing Animation -->
