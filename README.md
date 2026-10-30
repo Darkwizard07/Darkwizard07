@@ -24,8 +24,7 @@
   </a>
   <!-- GitHub Streak Card -->
   <a href="https://github.com/Darkwizard07">
-    <img src="https://streak-stats.demolab.com?user=Darkwizard07&theme=tokyonight&background=0D1117&border=0D1117&stroke=0D1117&ring=FE9B12&fire=FE9B12&currStreakNum=FE9B12" height="175" alt="GitHub Streak" />
-  </a>
+<img src="https://streak-stats.demolab.com?user=Darkwizard07&theme=tokyonight&background=0D1117&border=0D1117&stroke=0D1117&ring=FE9B12&fire=FE9B12&currStreakNum=FE9B12&card_width=450" height="175" alt="GitHub Streak" />  </a>
 </p>
 
 <!-- Top Languages Card (Profile Summary Cards mirror) -->
