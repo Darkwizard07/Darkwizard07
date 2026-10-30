@@ -14,13 +14,13 @@
 </p>
 
 ---
-<!-- Activity Graph & Streak Stats side by side -->
+
 ### Statistical Overview
 
 <p align="center">
-  <!-- GitHub Main Stats Card -->
+  <!-- Stats & Overview Card (Metrics mirror) -->
   <a href="https://github.com/Darkwizard07">
-    <img src="https://github-readme-stats.vercel.app/api?username=Darkwizard07&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&cache_seconds=1800" height="175" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkwizard07&theme=tokyonight" height="175" alt="GitHub Stats" />
   </a>
   <!-- GitHub Streak Card -->
   <a href="https://github.com/Darkwizard07">
@@ -28,14 +28,9 @@
   </a>
 </p>
 
-<!-- Top Languages Card (Includes all commits & repo languages) -->
+<!-- Top Languages Card (Profile Summary Cards mirror) -->
 <p align="center">
   <a href="https://github.com/Darkwizard07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwizard07&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Darkwizard07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwizard07&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darkwizard07&theme=tokyonight" height="175" alt="Top Languages" />
   </a>
 </p>
