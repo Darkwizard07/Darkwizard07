@@ -17,17 +17,23 @@
 <!-- Activity Graph & Streak Stats side by side -->
 ### Statistical Overview
 
-<!-- Activity Graph & Streak Stats side by side -->
 <p align="center">
+  <!-- GitHub Main Stats Card -->
   <a href="https://github.com/Darkwizard07">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkwizard07&theme=tokyo-night&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&hide_border=true" height="175" alt="Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Darkwizard07&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&cache_seconds=1800" height="175" alt="GitHub Stats" />
   </a>
+  <!-- GitHub Streak Card -->
   <a href="https://github.com/Darkwizard07">
     <img src="https://streak-stats.demolab.com?user=Darkwizard07&theme=tokyonight&background=0D1117&border=0D1117&stroke=0D1117&ring=FE9B12&fire=FE9B12&currStreakNum=FE9B12" height="175" alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- Top Languages Card -->
+<!-- Top Languages Card (Includes all commits & repo languages) -->
+<p align="center">
+  <a href="https://github.com/Darkwizard07">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwizard07&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Languages" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/Darkwizard07">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwizard07&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Top Languages" />
