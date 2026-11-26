@@ -10,7 +10,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,react,nextjs,nodejs,fastapi,tailwind,prisma,mongodb,postgres,firebase,aws,azure,gcp,docker,git,github,linux,npm,postman,vercel,cloudflare&perline=9" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,react,nextjs,nodejs,fastapi,mongodb,postgres,firebase,aws,azure,docker,git,github,linux,npm,vercel,cloudflare&perline=9" alt="My Skills" />
 </p>
 
 ---
